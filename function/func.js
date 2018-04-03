@@ -6,3 +6,4 @@ hi();
 hi();
 hi();
 hi();
+console.log("new commit");
