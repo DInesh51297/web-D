@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"annoy"
+			],
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"boo",
+				"bootstrap"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"navba",
+				"navbar-nav"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar-header"
+			],
+			[
+				"bt",
+				"btn-success"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"bord",
+				"border-left"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"mi",
+				"minlength\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Dinesh/Desktop/DINESH/web D/js starting.html",
+		"/C/Users/Dinesh/Desktop/DINESH/web D/somemethods.js",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/bootstrap.css",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/gallary.css",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/bootstrap gallery using grid.html",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/bootstrap nav.html",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/bootstrap basics .html",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/mybl.css",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/myblog.html",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/port.css",
+		"/C/Users/Dinesh/Desktop/DINESH/html css/portfolio.html",
+		"/C/Users/Dinesh/Desktop/learning/about/css/aboutme.css",
+		"/C/Users/Dinesh/Desktop/learning/about/css/aboutme.html",
+		"/C/Users/Dinesh/Desktop/learning/about/Form assignment.html",
+		"/C/Users/Dinesh/Desktop/learning/about/forms.html",
+		"/C/Users/Dinesh/Desktop/learning/about/pokemon chart .html",
+		"/C/Users/Dinesh/Desktop/learning/about/intro 1 assignment.html",
+		"/C/Users/Dinesh/Desktop/learning/about/list assignment.html",
+		"/C/Users/Dinesh/Desktop/learning/about/envato.html",
+		"/C/Users/Dinesh/Desktop/learning/about/first page.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Annoy.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dinesh\\Desktop\\DINESH\\web D\\js starting.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
