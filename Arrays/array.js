@@ -10,7 +10,7 @@ var hi = [47,"dinesh",5,true,null,5];
 //adding something at specific index
 console.log(hi[3]); 
 
-//want to add something 
+//wants to add something 
 hi[6]=false;
 
 
