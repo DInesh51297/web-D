@@ -1,3 +1,5 @@
+//intro
+
 function hi(){
     console.log("jvjbsjbj")
 }
@@ -19,8 +21,15 @@ var a = 15;
  console.log(a+"dinesh yadav");
  var ab = "Hello world";
  console.log("ghar ja");
-for (var i=0;j<10;i++){
+for (var i=0;i<10;i++){
     console.log(i);
 }
 console.log("sunny parihar");
 
+//arguments
+function square(num)
+{
+    console.log(num*num);
+}
+
+square(10);
