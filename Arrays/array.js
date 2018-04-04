@@ -6,7 +6,7 @@ var friends = new Array();
 //array can hold any type of data 
 
 var hi = [47,"dinesh",5,true,null];
-
+console.log(hi[3]);
 // length property
 
 console.log(hi.length);
