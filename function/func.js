@@ -61,3 +61,33 @@ var city ="delhi";
 var capital=capatalize(city);
 
 console.log(capital);
+
+//problem set
+
+function isEven(x)
+{
+  if(x%2==0)
+   {
+      return true;     
+   }
+  else
+    return false;
+}
+
+var num = isEven(13);
+console.log(num);
+var num = isEven(1);
+console.log(num);
+
+function fact(x){
+    var result=1;//result =num
+    for(var i=2;i<=x;i++)//i=num-1 i>=1 i--
+    result = result*i;
+    return result;
+}
+
+var num = fact(10);
+console.log(num);
+var num = fact(5);
+console.log(num);
+
