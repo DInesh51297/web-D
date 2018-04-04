@@ -42,3 +42,11 @@ console.log("hi "+ name +" are you "+ age + " years old ?");
 
 ask("dinesh",20);
 ask("ksnff",); //we can leave blamck arguments it will give undefined
+
+//return
+function squ(x){
+    return (x*x); 
+}
+
+var nu=squ(5);
+console.log(nu);
