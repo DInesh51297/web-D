@@ -91,3 +91,11 @@ console.log(num);
 var num = fact(5);
 console.log(num);
 
+function kebabToSnake(str){
+
+  var s=str.replace(/i/g,"+");
+  return s;
+}
+
+var n=kebabToSnake("Dinesh-yaiav-civ-jif");
+console.log(n);
