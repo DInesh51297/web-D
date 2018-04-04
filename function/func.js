@@ -99,3 +99,22 @@ function kebabToSnake(str){
 
 var n=kebabToSnake("Dinesh-yaiav-civ-jif");
 console.log(n);
+//scope 
+
+
+//Higher order function 
+
+function sing(){
+    console.log("cheta tera");
+    console.log("you look perfect tonight");
+}
+
+sing();
+setInterval(sing,1000);
+
+//anonymus function without name decleared inside an other fucntion
+
+setInterval(function (){
+    console.log("hagfk");
+    console.log("jsgfgjs");
+},3000);
