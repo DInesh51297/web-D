@@ -50,3 +50,14 @@ function squ(x){
 
 var nu=squ(5);
 console.log(nu);
+
+function capatalize(str){
+  
+     return str.charAt(0).toUpperCase() + str.slice(1);
+
+}
+
+var city ="delhi";
+var capital=capatalize(city);
+
+console.log(capital);
