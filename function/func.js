@@ -33,3 +33,12 @@ function square(num)
 }
 
 square(10);
+
+
+function ask(name ,age){
+console.log("hi "+ name +" are you "+ age + " years old ?");
+
+}
+
+ask("dinesh",20);
+ask("ksnff",); //we can leave blamck arguments it will give undefined
