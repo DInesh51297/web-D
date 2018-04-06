@@ -63,3 +63,15 @@ console.log(a);
 console.log(hi);
 var hello = hi.slice(2,5); 
 console.log(hello);
+
+//nested arrays 2D
+
+var friendsgroup = [
+  ["D","s","p","s"],
+  ["a","ak","sh","ps"],
+  ["v","pw","pra","rd"]
+];
+
+console.log(friendsgroup[1][3]);
+console.log(friendsgroup[2][4]);
+
