@@ -1,5 +1,5 @@
 var arr = new Array();
-var str = prompt("What you like to do");
+var str = prompt("what you like to do");
 
 while(str !== "quit")
 {
