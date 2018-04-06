@@ -10,7 +10,7 @@ while(str !== "quit")
     }
     else if(str === "list")
     {   
-        listToDDo();
+        listToDo();
     }
     else if(str==="delete")  
     {
@@ -29,7 +29,7 @@ function addToDo(){
     console.log("Added to list");
 }
 
-function listToDDo(){
+function listToDo(){
     console.log("**********");
     arr.forEach(function(todo,i){
     console.log(i + ": " + todo);
