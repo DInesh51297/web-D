@@ -97,3 +97,4 @@ function addingToColor(color)
 }
 
 colors.forEach(addingToColor);
+
