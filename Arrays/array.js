@@ -75,3 +75,25 @@ var friendsgroup = [
 console.log(friendsgroup[1][3]);
 console.log(friendsgroup[2][4]);
 
+//Array itearation
+
+//for loop
+
+for(var i=0; i<hi.length;i++)
+{
+    console.log(hi[i]);
+}
+
+//forEach (used to go through each item of array without any condition)
+
+//array.forEach(some function)
+
+var colors = ["green","yellow","blue"];
+
+function addingToColor(color)
+{
+   console.log(color+" nice one");
+
+}
+
+colors.forEach(addingToColor);
