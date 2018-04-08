@@ -46,3 +46,19 @@ post[0].title
 
 posts[0].comment[1];
 
+//methods ( function as a property inside an object)
+//used to avoid namespace conflict and code indentation 
+var student = {
+    name: "Dinesh",
+    age: 20,
+    city : "delhi",
+    course : "btech cse",
+    add : function(x,y) 
+          {
+             return x+y;
+          }
+   }
+
+   student.add(17,898);
+
+   
