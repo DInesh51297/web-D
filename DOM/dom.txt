@@ -1,0 +1,3 @@
+DOM :
+Document object model is an interface between js and html+css
+
